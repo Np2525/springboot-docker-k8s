@@ -16,6 +16,6 @@ public class DemoApplication {
 class HelloController {
     @GetMapping("/")
     public String home() {
-        return "Hello from Spring Boot!-Updated";
+        return "Hello from Spring Boot!-New Changw";
     }
 }
